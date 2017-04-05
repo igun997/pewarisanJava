@@ -1,2 +1,3 @@
 # Pewarisan Java Materi Sebelum UTS 
-T_T sok download
+* File java ada di SRC 
+* T_T Mangga di Download
